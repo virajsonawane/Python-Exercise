@@ -1,16 +1,13 @@
-# def main():
-#     print("Enter a Number : ")
-#     num = int(input())
-#     count = 0
+def main():
+    print("Enter a Number : ")
+    num = int(input())
+    count = 0
 
-#     for i in range(1, num + 1):
-#         if num % i == 0:
-#             count = count + 1
+    while num > 0:
+        count = count + 1
+        num = num // 10
 
-#     if count == 2:
-#         print("Prime number")
-#     else:
-#         print("Not prime number")
+    print("Count of Given Number is :",count)
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
