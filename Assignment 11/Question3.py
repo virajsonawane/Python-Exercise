@@ -1,13 +1,14 @@
 def main():
     print("Enter a Number : ")
     num = int(input())
-    count = 0
+    total = 0
 
     while num > 0:
-        count = count + 1
+        digit = num % 10
+        total = total + digit
         num = num // 10
 
-    print("Count of digits is : ",count)
+    print("Sum of Given Number is :", total)
 
 if __name__ == "__main__":
     main()
