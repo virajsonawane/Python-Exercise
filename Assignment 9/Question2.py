@@ -5,7 +5,7 @@ def ChkGreater():
     print("Enter Second Number : ")
     num2 = int(input())
 
-    if num1 > num2:
+    if (num1 > num2):
         print(num1, " is greater")
         
     else:
