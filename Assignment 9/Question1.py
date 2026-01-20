@@ -1,5 +1,5 @@
 def Display():
-    print("Jay Ganesh....")
+    print("Jay Ganesh.....")
 
 def main():
     Display()
