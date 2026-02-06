@@ -1,0 +1,13 @@
+--------------------------------------------------
+This is log file created by Marvellous Automation
+Directory Duplicate File Deletion With TimeStamp Script
+--------------------------------------------------
+Deleted File : Demo\ABCD.txt
+Deleted File : Demo\1\ABC.txt
+Deleted File : Demo\2\ABCD.txt
+--------------------------------------------------
+Total Deleted Files : 3
+Execution Time Required : 0.004103660583496094 seconds
+Duplicate removal completed
+Log created at : Fri Feb  6 21:36:22 2026
+--------------------------------------------------

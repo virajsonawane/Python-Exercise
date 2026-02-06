@@ -1,0 +1,11 @@
+--------------------------------------------------
+This is log file created by Marvellous Automation
+Directory Copy Script (Without shutil)
+--------------------------------------------------
+Destination directory created : Temp
+Copied : Demo\ABC.doc -> Temp\ABC.doc
+Copied : Demo\Demo.doc -> Temp\Demo.doc
+--------------------------------------------------
+Total Files Copied : 2
+Log created at : Fri Feb  6 13:34:45 2026
+--------------------------------------------------
